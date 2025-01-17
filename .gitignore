@@ -1,0 +1,5 @@
+node_modules/
+apis/node_modules/
+ai/node_modules/
+apis/.env
+ai/.env
