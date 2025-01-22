@@ -6,7 +6,7 @@ This project is an AI mental health assistant that uses GPT-4 to generate respon
 
 ## Installation
 
-1. Clone the repository (https://github.com/joshua-s-lee/ai-mental-health-assistant)
+1. Clone the repository (https://github.com/danielozeh/ai-mental-health-assistant)
 2. Run `npm install` in the `apis` directory
 3. Run `pip install -r ai/requirements.txt` in the `ai` directory
 4. Create a `.env` file in the `apis` directory with the following variables:
